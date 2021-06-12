@@ -1,0 +1,28 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#map iframe{
+    width: 40%;
+    height: 40%;
+    float: left;
+}
+.contact_1 a {
+    text-shadow: none;
+}
+body {
+    text-align: center;
+}
+#video{
+    width: 100%;
+    height: 100%;
+}
